@@ -1,0 +1,34 @@
+.product-name h4 a{text-decoration: none;
+ font-weight: 500;
+font-size: 15px;}
+
+.shop-containers{display: flex; border-bottom: 1px solid #ddd;}
+
+.shop-containers {
+	display: flex;
+	border-bottom: 1px solid #ddd;
+	margin: 0 15px;
+}
+.product-img {
+	padding-left: 18px;
+	line-height: 75px;
+	position: relative;
+	top: 15px;
+	margin-right: 5px;
+}
+.product-name {
+	margin-left: 10px;
+}
+.product-name p small {
+	font-weight: 400;
+	color: #111111b8;
+}
+.button {
+	display: inline-block;
+	padding: 2px 50px;
+	background: #ffbd18;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+    margin-bottom: 2px;
+    cursor:pointer
+}
