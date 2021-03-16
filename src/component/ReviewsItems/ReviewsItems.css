@@ -1,0 +1,12 @@
+.product-name h4 {
+    font-weight: 500;
+   font-size: 15px;
+   cursor: pointer;
+   color: #6274df;}
+   .product-name.extra {
+    margin-left: 150px;
+    padding-bottom: 6px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+
+}

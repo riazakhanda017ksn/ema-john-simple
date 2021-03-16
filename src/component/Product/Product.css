@@ -1,6 +1,8 @@
-.product-name h4 a{text-decoration: none;
+.product-name h4 {
  font-weight: 500;
-font-size: 15px;}
+font-size: 15px;
+cursor: pointer;
+color: #6274df;}
 
 .shop-containers{display: flex; border-bottom: 1px solid #ddd;}
 
